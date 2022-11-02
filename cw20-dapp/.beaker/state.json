@@ -1,1 +1,13 @@
-{}
+{
+  "serenity": {
+    "cw20-factory-token": {
+      "code_id": 604,
+      "addresses": {
+        "default": "aura1gnyrkvfu4y2jg3yc6p7u64amfgexq64w7qld8fz58ln4j7hr0f4q7jzdq0"
+      },
+      "proposal": {
+        "store_code": null
+      }
+    }
+  }
+}
